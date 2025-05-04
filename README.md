@@ -17,3 +17,8 @@ A fun and challenging browser based typing game built with HTML, CSS, and JavaSc
 - CSS
 - Vanilla JavaScript
 
+## What the game looks like
+
+![image](https://github.com/user-attachments/assets/5377c941-a884-45bb-9566-ce9b838d67de)
+
+
