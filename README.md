@@ -1,6 +1,6 @@
 # Word Rain Typing Game
 
-A fun and challenging browser-based typing game built with HTML, CSS, and JavaScript. Words fall from the top of the screen — type them before they reach the bottom to earn points. Miss three words and it's game over!
+A fun and challenging browser based typing game built with HTML, CSS, and JavaScript. Words fall from the top of the screen and you have to type them before they reach the bottom to earn points. Miss three words and it's game over! You can then choose to restart and collect points again!
 
 ## Features
 
